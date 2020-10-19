@@ -3,6 +3,6 @@ package Entities;
 import lombok.Data;
 
 @Data
-public class Respuesta {
+public class Pregunta {
     private String texto;
 }
